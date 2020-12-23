@@ -1,0 +1,18 @@
+Hoàng Kiến Thiết - 51702187
++ Khảo sát hệ thống: Phỏng vấn, thu thập biểu mẫu, viết đặc tả, phân tích yêu cầu
++ Trình bày báo cáo, slide
++ Hỗ trợ vẽ và đặc tả use case
+
+Lê Đức Sơn - 51603262
++ Vẽ sơ đồ use case
+
+Võ Nhật Duy - 51702092
++ Đặc tả use case
+
+Phạm Đình Nhật - 51702092
++ Sơ đồ trình tự
++ Sơ đồ hoạt động
+
+Ngô Minh Quang - 51603253
++ Sơ đồ lớp
++ Mô hình phát triển phần mềm

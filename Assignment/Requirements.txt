@@ -1,0 +1,5 @@
+- Tìm hiểu và phân tích yêu cầu
+- Vẽ sơ đồ use case
+- Đặc tả sơ đồ use case
+
+Hạn chót nộp bài 17h 15/10/2020
